@@ -6,3 +6,4 @@
 - cleaned up git repo, as well as proposed new commit naming strategy that helped identify bugs faster and in general easier to identifies changes and know where changes were made.
 - migrated all legacy code to coordinator pattern
 - refactored 50% of legacy code into programmatic ui?
+- deeplinks?

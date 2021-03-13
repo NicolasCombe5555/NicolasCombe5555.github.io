@@ -7,3 +7,11 @@
 - migrated all legacy code to coordinator pattern
 - refactored 50% of legacy code into programmatic ui?
 - deeplinks?
+
+
+
+
+# Delete details
+## Update Agosto?
+### Entusiasta: stackoverflow?
+#### Otras tecnologias: fastlane

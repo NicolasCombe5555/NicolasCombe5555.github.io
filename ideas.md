@@ -12,4 +12,3 @@
 
 
 # Translate to english
-## Network pages hover color

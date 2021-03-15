@@ -8,7 +8,7 @@
 - refactored 50% of legacy code into programmatic ui?
 - deeplinks?
 
-
+- migrate to react?
 
 
 # Translate to english

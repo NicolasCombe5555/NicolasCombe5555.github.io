@@ -11,7 +11,5 @@
 
 
 
-# Delete details
-## Update Agosto?
-### Entusiasta: stackoverflow?
-#### Otras tecnologias: fastlane
+# Translate to english
+## Network pages hover color

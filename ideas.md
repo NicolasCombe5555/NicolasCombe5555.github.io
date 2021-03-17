@@ -1,2 +1,1 @@
-# Translate to english
-## Migrate to react?
+# Migrate to react?
